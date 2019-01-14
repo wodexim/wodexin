@@ -8,5 +8,10 @@ public class test {
         System.out.println("黑马itcast");
         System.out.println("黑马itcast");
         System.out.println("黑马itcast");
+        System.out.println("itcast黑马");
+        System.out.println("itcast黑马");
+        System.out.println("itcast黑马");
+        System.out.println("itcast黑马");
+        System.out.println("itcast黑马");
     }
 }
